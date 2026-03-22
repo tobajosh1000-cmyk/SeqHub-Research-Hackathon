@@ -1,0 +1,248 @@
+{
+  "lines": [
+    {
+      "line_index": 0,
+      "speaker": "CEO",
+      "text": "Good morning everyone, Q4 was a milestone quarter for TechVenture as we achieved record ARR growth of twenty-two percent.",
+      "speaker_change": false,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Financial Performance",
+      "sentiment": "positive"
+    },
+    {
+      "line_index": 1,
+      "speaker": "CEO",
+      "text": "While our top-line momentum remains strong, we are maintaining a disciplined stance on regional operating expenses to protect our long-term scalability.",
+      "speaker_change": false,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "Financial Performance",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 2,
+      "speaker": "CFO",
+      "text": "Turning to the numbers, our EBITDA margins faced some compression this quarter, landing at fourteen percent due to front-loaded infrastructure investments.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Financial Performance",
+      "sentiment": "negative"
+    },
+    {
+      "line_index": 3,
+      "speaker": "CFO",
+      "text": "Gross retention remains healthy at ninety-one percent, though we did see some elongation in mid-market sales cycles through December.",
+      "speaker_change": false,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "Financial Performance",
+      "sentiment": "mixed"
+    },
+    {
+      "line_index": 4,
+      "speaker": "Analyst (Morgan Stanley)",
+      "text": "Thanks for the color, can you bridge the gap between that record ARR and the softer-than-expected revenue guidance for Q1?",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Revenue Guidance",
+      "sentiment_change": true,
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 5,
+      "speaker": "CEO",
+      "text": "We believe the market is stabilizing, but we’re being prudent with guidance given the ongoing budget scrutiny our clients are facing.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Revenue Guidance",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 6,
+      "speaker": "Analyst (Morgan Stanley)",
+      "text": "Follow-up for the CFO, your CAC jumped nearly fifteen percent this quarter; is that the new baseline or a one-off spike?",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Customer Acquisition Cost",
+      "sentiment_change": false,
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 7,
+      "speaker": "CFO",
+      "text": "That increase reflects higher bidding costs in the enterprise segment, so we are trending toward a more elevated acquisition cost in the near term.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "Customer Acquisition Cost",
+      "sentiment": "negative"
+    },
+    {
+      "line_index": 8,
+      "speaker": "Analyst (Goldman Sachs)",
+      "text": "On the competitive front, how are you defending your pricing power against the aggressive discounting we’re seeing from legacy players?",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Competitive Strategy",
+      "sentiment_change": true,
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 9,
+      "speaker": "CEO",
+      "text": "We don't compete on price alone, though we have occasionally offered flexible payment terms to secure strategic multi-year renewals.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Competitive Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 10,
+      "speaker": "Analyst (Goldman Sachs)",
+      "text": "But if margins are already pressured, doesn't that flexibility threaten your path to free cash flow positive by 2025?",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Profitability Roadmap",
+      "sentiment_change": true,
+      "sentiment": "negative"
+    },
+    {
+      "line_index": 11,
+      "speaker": "CFO",
+      "text": "I want to be clear that our path to profitability is intact, subject to market conditions remaining relatively stable next year.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "Profitability Roadmap",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 12,
+      "speaker": "Analyst (Goldman Sachs)",
+      "text": "And what about the churn in the SMB segment? It seems higher than the historical average you mentioned earlier.",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "SMB Churn",
+      "sentiment_change": true,
+      "sentiment": "negative"
+    },
+    {
+      "line_index": 13,
+      "speaker": "CEO",
+      "text": "The SMB space is certainly more volatile right now, and we are strategically pivoting our sales focus toward more resilient enterprise accounts.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "SMB Churn",
+      "sentiment": "negative"
+    },
+    {
+      "line_index": 14,
+      "speaker": "CEO",
+      "text": "We are confident that this shift will normalize our churn rates as we move into the second half of 2025.",
+      "speaker_change": false,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "SMB Churn",
+      "sentiment": "positive"
+    },
+    {
+      "line_index": 15,
+      "speaker": "CFO",
+      "text": "To add to that, we’re strictly managing our headcount growth to offset any further margin volatility from the SMB side.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": true,
+      "topic": "SMB Churn",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 16,
+      "speaker": "Analyst (Morgan Stanley)",
+      "text": "Understood, so it sounds like growth is the priority even if it means some short-term pain on the bottom line?",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Growth Strategy",
+      "sentiment_change": false,
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 17,
+      "speaker": "CEO",
+      "text": "Our priority is sustainable growth, even if that requires us to be more aggressive in defending our market share against new entrants.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Growth Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "line_index": 18,
+      "speaker": "CFO",
+      "text": "We’ll provide more granular detail on the 2025 roadmap during our next filing, but for now, we remain cautiously optimistic.",
+      "speaker_change": true,
+      "topic_change": true,
+      "topic": "Closing Remarks",
+      "sentiment_change": true,
+      "sentiment": "positive"
+    },
+    {
+      "line_index": 19,
+      "speaker": "CEO",
+      "text": "Thank you all for joining us; we look forward to executing on these strategic initiatives in the coming months.",
+      "speaker_change": true,
+      "topic_change": false,
+      "sentiment_change": false,
+      "topic": "Closing Remarks",
+      "sentiment": "positive"
+    }
+  ],
+  "summary": {
+    "total_lines": 20,
+    "speaker_changes": 14,
+    "topic_changes": 7,
+    "sentiment_changes": 12,
+    "speakers": [
+      "CEO",
+      "CFO",
+      "Analyst (Morgan Stanley)",
+      "Analyst (Goldman Sachs)"
+    ],
+    "topics": [
+      "Financial Performance",
+      "Revenue Guidance",
+      "Customer Acquisition Cost",
+      "Competitive Strategy",
+      "Profitability Roadmap",
+      "SMB Churn",
+      "Growth Strategy",
+      "Closing Remarks"
+    ],
+    "sentiment_arc": [
+      "positive",
+      "neutral",
+      "negative",
+      "mixed",
+      "neutral",
+      "neutral",
+      "neutral",
+      "negative",
+      "neutral",
+      "neutral",
+      "negative",
+      "neutral",
+      "negative",
+      "negative",
+      "positive",
+      "neutral",
+      "neutral",
+      "neutral",
+      "positive",
+      "positive"
+    ]
+  }
+}
